@@ -1,0 +1,43 @@
+Speed limit (20 km/h)
+Speed limit (30 km/h)
+Speed limit (50 km/h)
+Speed limit (60 km/h)
+Speed limit (70 km/h)
+Speed limit (80 km/h)
+End of speed limit (80 km/h)
+Speed limit (100 km/h)
+Speed limit (120 km/h)
+No overtaking
+No overtaking by lorries
+Right of way at the next crossroads
+Priority road
+Give way
+Stop and give way
+No vehicles
+Prohibition of motor vehicles with a gross vehicle weight of over 3.5 metric tons
+No entry
+General caution
+Dangerous curve to the left
+Dangerous curve to the right
+Double curves, first to left
+Bumpy road
+Slippery road
+Road narrows on the right
+Roadworks
+Traffic signals
+Pedestrians
+Children crossing
+Bicycles crossing
+Road ahead freezes easily and is then slippery
+Wild animals crossing
+End of all speed and passing limits
+Turn right ahead
+Turn left ahead
+Ahead only
+Go straight or right
+Go straight or left
+Keep right
+Keep left
+Roundabout mandatory
+End of no overtaking
+End of no overtaking by lorries
